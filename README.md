@@ -85,4 +85,11 @@ gcc readers_writers.c -o rw -lpthread
 
 gcc dining.c -o dining -lpthread
 ./dining
+
+
+or in vs code just
+gcc write.c
+gcc dinning.c
 ```
+
+
